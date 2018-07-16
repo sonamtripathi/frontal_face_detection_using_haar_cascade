@@ -1,4 +1,4 @@
-# frontal_face_detection_using_haar_cascade
+# Frontal Face Detection Using Haar Cascade
 This Repository contains Frontal Face Detection Using Haar Cascade(Viola-Jones Algorithm)
 
 Viola-Jones is the first object detection algorithm used primarily for solving Face Detection Problem.
