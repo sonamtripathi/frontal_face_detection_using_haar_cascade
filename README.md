@@ -10,5 +10,5 @@ The Algorithm works in 4 Stages.
 4. Cascading Classifiers
 
 Here we have implemented it using Opencv library
-Dependency: OpenCv ,Python3
+Dependency: Haar Features xml file,OpenCv ,Python3
 
